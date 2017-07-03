@@ -1,0 +1,4 @@
+--Works best in landscape (android tablet for preference)
+--after editing a todo, press the Edit button to finish. 
+--Config template file was used, pretty sure NPM then grabbed Jasmine JS, not sure if actually needed... 
+--Also found the colour scheme online, seemed nice! 

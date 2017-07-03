@@ -2,7 +2,7 @@
 <widget id="ie.oldtowner.johnTodo" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>JohnTodo</name>
     <description>
-        Adpated Hello World sample application that responds to the deviceready event.
+        Adapated Hello World sample application that responds to the deviceready event.
     </description>
     <author email="john.walshe@webelevate.ie" href="http://oldtowner.ie">
         John Walshe
